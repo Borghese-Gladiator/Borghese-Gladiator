@@ -22,15 +22,16 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Chinese NLP (FudanNLP)
 - 📫 How to reach me: email me at tim.shee0791@gmail.com or message me on [LinkedIn](linkedin)
 - 🥅 2020 Goals: Cook healthier, Exercise, and create templates for easy app development hackathons!
-- ⚡ Fun fact: I love to play badminton and made the Junior US National Team once!
+- 🎉 Fun fact: I love to play badminton and made the Junior US National Team once!
+
+---
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="timothyshee.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Tim S | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
-<br />
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
