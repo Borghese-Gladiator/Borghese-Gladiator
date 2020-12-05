@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 [![Website](https://img.shields.io/website?label=timothyshee.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](website)
 
-## I'm a Web Developer and DevOps Engineer!!
+## I'm a Web Dev and DevOps Lover!!
 
 - 🔭 I’m currently working on building robust web utilities (React with varying backends)
 - 🌱 I’m currently learning Chinese NLP (FudanNLP)
