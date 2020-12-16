@@ -12,24 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Tim - aka [BorG][website] 👋
+## Hi there, I'm Tim - aka [BorG][website] 👋
 
 [![Website](https://img.shields.io/website?label=timothyshee.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](website)
+### Full Stack Developer & DevOps Engineer in MA!!
 
-## I'm a Web Dev and DevOps Lover!!
-
+- 📝[Resume](http://timothyshee.me/static/media/Current_Resume.ef771466.pdf)
 - 🔭 I’m currently working on building robust web utilities (React with varying backends)
 - 🌱 I’m currently learning Chinese NLP (FudanNLP)
-- 📫 How to reach me: email me at tim.shee0791@gmail.com or message me on [LinkedIn](linkedin)
+- 📫 How to reach me: [tim.shee0791@gmail.com]()
 - 🥅 2020 Goals: Cook healthier, Exercise, and create templates for easy app development hackathons!
 - 🎉 Fun fact: I love to play badminton and made the Junior US National Team once!
 
 ---
 
 ### Connect with me:
-
-[<img align="left" alt="timothyshee.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Tim S | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Portfolio" width="22px" src="https://www.flaticon.com/svg/1231/1231223.svg" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
 
 <br />
 <br />
