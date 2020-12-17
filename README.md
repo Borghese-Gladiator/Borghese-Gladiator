@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on building robust web utilities (React with varying backends)
 - 🌱 I’m currently learning Chinese NLP (FudanNLP)
 - 📫 How to reach me: [tim.shee0791@gmail.com]()
-- 🥅 2020 Goals: Cook healthier, Exercise, and create templates for easy app development hackathons!
+- 🥅 2020 Goals: Cook healthier, Exercise, and code something cool!
 - 🎉 Fun fact: I love to play badminton and made the Junior US National Team once!
 
 ---
