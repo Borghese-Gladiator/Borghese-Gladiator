@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ### Full Stack Developer & DevOps Engineer in MA!!
 
 - 📝[Resume](http://timothyshee.me/static/media/Current_Resume.ef771466.pdf)
-- 🔭 I’m currently working on building robust web utilities (React with varying backends)
-- 🌱 I’m currently learning Chinese NLP (FudanNLP)
+- 🔭 I’m currently working at Dell EMC on a cloud platform called CloudIQ
+- 🌱 I’m currently learning Reinforcement Learning through a Udemy course [https://www.udemy.com/course/practical-reinforcement-learning/](https://www.udemy.com/course/practical-reinforcement-learning/)
 - 📫 How to reach me: [tim.shee0791@gmail.com]()
-- 🥅 2020 Goals: Cook healthier, Exercise, and code something cool!
+- 🥅 2021 Goals: Cook healthier, exercise, and code something cool!
 - 🎉 Fun fact: I love to play badminton and made the Junior US National Team once!
 
 ---
@@ -34,13 +34,8 @@ Here are some ideas to get you started:
 <br />
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="BorG's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=borghese-gladiator&show_icons=true&hide_border=true" />
-
-</details>
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=borghese-gladiator&show_icons=true&include_all_commits=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=borghese-gladiator&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: http://timothyshee.me/
 [linkedin]: https://www.linkedin.com/in/timothy-shee-aa46a5170/
