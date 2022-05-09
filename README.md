@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 
 ### Full Stack Developer in MA!!
 
-- 📝[Resume](http://timothyshee.me/static/media/Current_Resume.ef771466.pdf)
+- 📫 How to reach me: [tim.shee0791@gmail.com]()
 - 🔭 I’m currently working at Dell EMC on a cloud platform called CloudIQ
 - 🌱 I’m currently learning Reinforcement Learning through a Udemy course [https://www.udemy.com/course/practical-reinforcement-learning/](https://www.udemy.com/course/practical-reinforcement-learning/)
-- 📫 How to reach me: [tim.shee0791@gmail.com]()
 - 🥅 2022 Goals: Cook healthier, exercise, and code something cool!
 - 🎉 Fun fact: I love to play badminton and once made the Junior US National Team!
 
