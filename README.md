@@ -28,10 +28,6 @@ Here are some ideas to get you started:
 [![Website](https://img.shields.io/website?label=timothyshee.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](website)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin)
 
-<br />
-<br />
-
----
 
 [website]: https://timshee.netlify.app/
 [linkedin]: https://www.linkedin.com/in/timothy-shee-aa46a5170/
