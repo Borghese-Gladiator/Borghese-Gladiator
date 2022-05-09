@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there, I'm Tim - aka [BorG][website] 👋
+## Hi there, I'm Tim 👋
 
-[![Website](https://img.shields.io/website?label=timothyshee.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](website)
 ### Full Stack Developer in MA!!
 
 - 📝[Resume](http://timothyshee.me/static/media/Current_Resume.ef771466.pdf)
@@ -27,13 +26,13 @@ Here are some ideas to get you started:
 ---
 
 ### Connect with me:
-[<img align="left" alt="Portfolio" width="22px" src="https://www.flaticon.com/svg/1231/1231223.svg" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
+[![Website](https://img.shields.io/website?label=timothyshee.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](website)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin)
 
 <br />
 <br />
 
 ---
 
-[website]: http://timothyshee.me/
+[website]: https://timshee.netlify.app/
 [linkedin]: https://www.linkedin.com/in/timothy-shee-aa46a5170/
