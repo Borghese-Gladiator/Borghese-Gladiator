@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ---
 
 ### Connect with me:
-Email me at [tim.shee0791@gmail.com](mailto:tim.shee0791@gmail.com)
+✉️: [tim.shee0791@gmail.com](mailto:tim.shee0791@gmail.com)
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://timshee.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/timothy-shee-aa46a5170/))
