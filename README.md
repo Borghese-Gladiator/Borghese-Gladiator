@@ -16,18 +16,15 @@ Here are some ideas to get you started:
 
 ### Full Stack Developer in MA!!
 
-- 📫 How to reach me: [tim.shee0791@gmail.com]()
-- 🔭 I’m currently working at Dell EMC on a cloud platform called CloudIQ
-- 🌱 I’m currently learning Reinforcement Learning through a Udemy course [https://www.udemy.com/course/practical-reinforcement-learning/](https://www.udemy.com/course/practical-reinforcement-learning/)
-- 🥅 2022 Goals: Cook healthier, exercise, and code something cool!
+- 🔭 I’m currently working remotely at a startup called [Rewst](https://rewst.io/)
+- 🌱 Tech: One cool thing I'm working on is writing EaaS (Environment as a Service) into my home server
+- 🥅 2023 Goals: Cook healthier, exercise, and code something cool!
 - 🎉 Fun fact: I love to play badminton and once made the Junior US National Team!
 
 ---
 
 ### Connect with me:
-[![Website](https://img.shields.io/website?label=timothyshee.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](website)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin)
+Email me at [tim.shee0791@gmail.com](mailto:tim.shee0791@gmail.com)
 
-
-[website]: https://timshee.netlify.app/
-[linkedin]: https://www.linkedin.com/in/timothy-shee-aa46a5170/
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://timshee.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/timothy-shee-aa46a5170/))
