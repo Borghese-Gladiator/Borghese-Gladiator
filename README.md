@@ -12,19 +12,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there, I'm Tim 👋
 
-### Full Stack Developer in MA!!
+<div align="center">
+  
+[![Hello World, I'm Tim!](assets/header.png)](https://github.com/Borghese-Gladiator) <br /><br />
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/timothy-shee/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:tim.shee0791@gmail.com?subject=Hello%20Tim,%20From%20Github)
 
-- 🔭 I’m currently working remotely at a startup called [Rewst](https://rewst.io/)
-- 🌱 Tech: One cool thing I'm working on is writing EaaS (Environment as a Service) into my home server
-- 🥅 2023 Goals: Cook healthier, exercise, and code something cool!
+</div>
+
+- 🔭 I’m currently working at [Klaviyo](https://www.klaviyo.com/) on their cloud platform in Data Dictionary
+- 🌱 Tech: One cool thing I'm working on is writing a Scraping as a Service tool using ChatGPT
+  - tl;dr - Kubernetes ephemeral pods to scrape content and LLMs to parse
+- 🥅 2024 Goals: Cook healthier, exercise, and code something cool!
 - 🎉 Fun fact: I love to play badminton and once made the Junior US National Team!
 
----
 
-### Connect with me:
-EMAIL: ✉ [tim.shee0791@gmail.com](mailto:tim.shee0791@gmail.com)
+<div align="center">
+  
+## 💻 Tech Stack
+[![Python, JS/TS, Next.js, Docker, Kubernetes, SQL, Linux, AWS](https://skillicons.dev/icons?i=py,js,ts,next,docker,kubernetes,postgres,linux,aws)](https://skillicons.dev)
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://timshee.netlify.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/timothy-shee-aa46a5170/))
+</div>
+
+<div align="center">
+
+## 🏆 My Stats:
+
+<p display="flex">
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=borghese-gladiator&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borghese-gladiator&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
+</div>
