@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 </div>
 
-- 🔭 I’m currently working at [Klaviyo](https://www.klaviyo.com/) on their cloud platform in Data Dictionary
+- 🔭 I’m currently working at [Klaviyo](https://www.klaviyo.com/) on their cloud platform as a Backend Developer
 - 🌱 Tech: One cool thing I'm working on is writing a Scraping as a Service tool using ChatGPT
   - tl;dr - Kubernetes ephemeral pods to scrape content and LLMs to parse
 - 🥅 2024 Goals: Cook healthier, exercise, and code something cool!
