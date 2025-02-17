@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-[![Hello World, I'm Tim!](assets/header.png)](https://github.com/Borghese-Gladiator) <br /><br />
+![Hello World, I'm Tim!](assets/header.png) <br /><br />
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/timothy-shee/) &nbsp;
+[<img src="./assets/availability_icon.svg" alt="Portfolio Link" width="48"/>](https://timshee.netlify.app/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:tim.shee0791@gmail.com?subject=Hello%20Tim,%20From%20Github)
+
 
 </div>
 
-- 🔭 I’m currently working at [Klaviyo](https://www.klaviyo.com/) on their cloud platform as a Backend Developer
-- 🌱 Tech: One cool thing I'm working on is writing a Scraping as a Service tool using ChatGPT
-  - tl;dr - Kubernetes ephemeral pods to scrape content and LLMs to parse
-- 🥅 2024 Goals: Cook healthier, exercise, and code something cool!
-- 🎉 Fun fact: I love to play badminton and once made the Junior US National Team!
-
+- 💻 Developer (4+ years) – Python & JS/TS | Backend Developer at [Klaviyo](https://www.klaviyo.com/) working on marketing reporting metrics
+- 🚀 Side Project – Building a Scraping-as-a-Service (SaaS) tool with Kubernetes ephemeral pods + LLM parsing (DeepSeek)  
+- 🥅 2025 Goals – Eat healthier, exercise, and build something cool  
+- 🏸 Fun Fact – I love badminton and once made the Junior US National Team!
 
 <div align="center">
   
